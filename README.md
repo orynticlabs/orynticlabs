@@ -109,7 +109,7 @@ We help organizations build reliable data infrastructure and extract actionable 
 ### 7. Cloud Infrastructure and DevOps
 We design, provision, and maintain secure, observable cloud infrastructure on AWS, GCP, and Azure:
 - Containerization and orchestration with Docker and Kubernetes (K8s).
-- Declarative Infrastructure as Code (IaC) using Terraform — all infrastructure is peer-reviewed and version-controlled.
+- Declarative Infrastructure as Code (IaC) using Terraform - all infrastructure is peer-reviewed and version-controlled.
 - Automated CI/CD workflows using GitHub Actions on every pull request.
 - Edge caching, DNS management, and WAF security via Cloudflare and Vercel.
 - End-to-end observability, log management, and APM using Datadog, Prometheus, Grafana, and Sentry.
@@ -182,7 +182,7 @@ Our engineering experience spans eleven primary industries, tailoring domain-spe
 
 ## Technology Stack
 
-We choose technologies based on project constraints, performance requirements, and long-term maintainability — never industry trends alone.
+We choose technologies based on project constraints, performance requirements, and long-term maintainability - never industry trends alone.
 
 | Domain                     | Technologies & Tools                                                                                                |
 | :------------------------- | :------------------------------------------------------------------------------------------------------------------ |
@@ -217,7 +217,7 @@ We choose technologies based on project constraints, performance requirements, a
 ### CI/CD & Infrastructure
 - Docker containerization ensuring strict environment parity between local development and production.
 - GitHub Actions automation running tests, static analysis, linting, and container builds on every pull request.
-- Declarative Infrastructure as Code (IaC) via Terraform — production changes are code-reviewed and version-controlled.
+- Declarative Infrastructure as Code (IaC) via Terraform - production changes are code-reviewed and version-controlled.
 
 ---
 
@@ -229,7 +229,7 @@ Every project at Oryntic Labs follows a structured, disciplined methodology:
 2. **Scope Before Building:** Every engagement begins with a documented scope of work, defined deliverables, and clear milestones.
 3. **Weekly Progress:** We operate in two-week sprint cycles with live demonstrations every Friday, ensuring continuous alignment and measurable progress.
 4. **Direct Communication:** If a technical path or external dependency is not performing as intended, we flag it immediately and pivot early.
-5. **Focus on Outcomes:** We measure success by system reliability, user adoption, and business impact — not code volume alone.
+5. **Focus on Outcomes:** We measure success by system reliability, user adoption, and business impact - not code volume alone.
 
 ---
 
@@ -237,7 +237,7 @@ Every project at Oryntic Labs follows a structured, disciplined methodology:
 
 - **Full-Stack Capability Under One Roof:** Web, mobile, AI, data, design, infrastructure, and consulting managed by a single cohesive team.
 - **Engineered for the Long Term:** We write clean, typed, well-documented code that future engineers can easily understand, maintain, and extend.
-- **Genuine AI Expertise:** We build real machine learning models, autonomous agent pipelines, and enterprise RAG systems — not thin API wrappers.
+- **Genuine AI Expertise:** We build real machine learning models, autonomous agent pipelines, and enterprise RAG systems - not thin API wrappers.
 - **Founder & Senior Involvement:** The engineers and technical leads who scope your project are the ones who build and architect it.
 - **Proven Internal Products:** We build and run our own production software (OryAI, OryCMS, PerformX), giving us direct experience with real operational challenges.
 
